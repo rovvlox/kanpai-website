@@ -47,7 +47,7 @@ export default function HomePage() {
           </Badge>
 
           <h1 className="text-6xl md:text-7xl font-bold text-gray-900 mb-6 text-balance">
-            Kan<span className="text-amber-500">p</span>AI
+            KanpAI
           </h1>
 
           <p className="text-xl text-gray-600 mb-12 max-w-2xl mx-auto leading-relaxed text-balance">

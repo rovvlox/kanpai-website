@@ -46,7 +46,7 @@ export default function HomePage() {
             Coming in April 2025
           </Badge>
 
-          <h1 className="text-6xl md:text-7xl font-bold text-gray-900 mb-6 text-balance">
+          <h1 className="natural-gradient text-6xl md:text-7xl font-bold text-gray-900 mb-6 text-balance">
             KanpAI
           </h1>
 
